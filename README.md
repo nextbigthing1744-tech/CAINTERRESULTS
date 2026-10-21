@@ -1,4 +1,4 @@
-const demoResults = [
+const Results = [
   {
     roll: "123456",
     registration: "NRO0123456",
